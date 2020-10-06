@@ -1,0 +1,79 @@
+{  
+  
+  // Aplica o tamanho da fonte, espaçamento e fontes
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+  "editor.rulers": [80, 120],
+  "editor.formatOnSave": false,
+
+  "eslint.packageManager": "yarn",
+  
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[javascriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+    }
+  },
+
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json"
+  },
+
+  // Aplica um sinal visual na esquerda da linha selecionada
+  "editor.renderLineHighlight": "gutter",
+
+  // Aumenta a fonte do terminal
+  "terminal.integrated.fontSize": 12,
+
+  // Define o tema dos ícones na sidebar e do vscode
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0,
+  "extensions.ignoreRecommendations": true,
+  
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {"javascript": "jsx"},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "njk": "html"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "breadcrumbs.enabled": true,
+  "git.enableSmartCommit": true,
+  "editor.parameterHints.enabled": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "explorer.confirmDragAndDrop": false,
+  "liveshare.featureSet": "insiders",
+  "explorer.confirmDelete": false,
+
+  "typescript.tsserver.log": "verbose",
+  "javascript.suggest.autoImports": false,
+  "typescript.suggest.autoImports": false,
+  "workbench.activityBar.visible": true,
+  "material-icon-theme.activeIconPack": "angular",
+  "material-icon-theme.folders.theme": "specific",
+  "editor.minimap.enabled": false
+}
