@@ -75,5 +75,6 @@
   "workbench.activityBar.visible": true,
   "material-icon-theme.activeIconPack": "angular",
   "material-icon-theme.folders.theme": "specific",
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "liveServer.settings.donotShowInfoMsg": true
 }
