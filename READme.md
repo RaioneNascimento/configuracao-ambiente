@@ -4,7 +4,7 @@ Uma das grandes dúvidas de maior interesse pelos desenvolvedores não é só de
 
 Vou explicar como configurei meu **Visual Studio Code**, terminal e outras ferramentas que utilizo para aumentar a minha **produtividade** com Javascript desenvolvendo projetos em ReactJS, React Native e NodeJS.
 
-Se você ainda usa **Windows** para programar recomendo seriamente repensar sobre isso e fazer um Dual Boot com Ubuntu ou outra distribuição Linux para melhorar sua produtividade. Garanto que não irá se arrepender 
+Se você ainda usa **Windows** para programar recomendo seriamente repensar sobre isso e fazer um Dual Boot com Ubuntu ou outra distribuição Linux para melhorar sua produtividade. Garanto que não irá se arrepender 🤓
 
 
 
@@ -24,33 +24,33 @@ Se você segue padrões de códigos e instala uma biblioteca como ESLint vai ent
 
 Essa é a lista de plugins que tenho instalado até o momento:
 
-* 🏃‍♂️ [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Plugin que ajuda a executa snippet de código ou arquivo de código para várias linguagens.
+* 🏃‍♂️ **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)** - Plugin que ajuda a executa snippet de código ou arquivo de código para várias linguagens.
 
-* 🕛 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) - Plugin que utilizo para marca o tempo em que estou desenvolvendo.
+* 🕛 **[Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)** - Plugin que utilizo para marca o tempo em que estou desenvolvendo.
 
-* 🎨 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) - Esse plugin mostra a cor exata de todos os RGB's ou HEX em seu código, muito útil pra quem trabalha com **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)** ou **[SASS](https://sass-lang.com/)**.
+* 🎨 **[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)** - Esse plugin mostra a cor exata de todos os RGB's ou HEX em seu código, muito útil pra quem trabalha com **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)** ou **[SASS](https://sass-lang.com/)**.
 
-* 🖱️ [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) - Plugin que utilizo para ter suporte à sintaxe .env, bem útil para quem trabalha com **[NodeJS](https://nodejs.org/en/)**, **[ReatcJS](https://pt-br.reactjs.org/)** ou qualquer outro tipo de projeto web.
+* 🖱️ **[DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)** - Plugin que utilizo para ter suporte à sintaxe .env, bem útil para quem trabalha com **[NodeJS](https://nodejs.org/en/)**, **[ReatcJS](https://pt-br.reactjs.org/)** ou qualquer outro tipo de projeto web.
 
-* 🧛‍♂️ [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) - Tema que utilizo no meu VSCode e em todos os outros editores/terminais, até o momento é o tema que mais me agradou.
+* 🧛‍♂️ **[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)** - Tema que utilizo no meu VSCode e em todos os outros editores/terminais, até o momento é o tema que mais me agradou.
 
-* 💪 [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - Plugin utilizado para padronizar quebra de linha, indentação, espaços e tabs entre desenvolvedores de um mesmo projeto.
+* 💪 **[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)** - Plugin utilizado para padronizar quebra de linha, indentação, espaços e tabs entre desenvolvedores de um mesmo projeto.
 
-* 🤙 [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) -  Conseguimos fazer alterações no editor de código, alternar para o navegador e atualizar para ver as alterações sem se perder alternando entre janelas.
+* 🤙 **[LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** -  Conseguimos fazer alterações no editor de código, alternar para o navegador e atualizar para ver as alterações sem se perder alternando entre janelas.
 
-* ✌️ [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - permite aos participantes da sessão visualizar ou editar o projeto no qual o grupo está trabalhando.
+* ✌️ **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - permite aos participantes da sessão visualizar ou editar o projeto no qual o grupo está trabalhando.
 
-* 👻 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - Plugin que utilizo para escrever e ler Markdown dentro do VSCode, bem utilizados para documentações README's do Github.
+* 👻 **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Plugin que utilizo para escrever e ler Markdown dentro do VSCode, bem utilizados para documentações README's do Github.
 
-* 🕶️ [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Utilizo para exibir os ícones de acordo com a linguagem utilizada na minha sidebar. O mais legal é que ele identifica a grande parte das Libs e Ferramentas.
+* 🕶️ **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - Utilizo para exibir os ícones de acordo com a linguagem utilizada na minha sidebar. O mais legal é que ele identifica a grande parte das Libs e Ferramentas.
 
-* 🚀 [Rocketseat ReactNative](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative) - Plugin com React Native Snippets da Rocketseat.
+* 🚀 **[Rocketseat ReactNative](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)** - Plugin com React Native Snippets da Rocketseat.
 
-* ✈️ [Rocketseat ReactJS](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS) - Plugin com ReactJS Snippets da Rocketseat.
+* ✈️ **[Rocketseat ReactJS](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS)** - Plugin com ReactJS Snippets da Rocketseat.
 
-* 👀 [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) - Plugin utilizado para explorar e consultar bancos de dados SQLite de alguns projetos que faço em Backend.
+* 👀 **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)** - Plugin utilizado para explorar e consultar bancos de dados SQLite de alguns projetos que faço em Backend.
 
-* 💅 [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) - Destaque de sintaxe e IntelliSense para componentes estilizados.
+* 💅 **[vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)** - Destaque de sintaxe e IntelliSense para componentes estilizados.
 
 ## Configurações
 Além dos plugins, utilizo algumas configurações para facilitar a legibilidade e edição do código. Para aplicar essas configurações você precisa acessar suas preferências.
