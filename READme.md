@@ -87,6 +87,13 @@ Apesar de ajudar muito o terminal integrado do VSCode, utiizo um terminal com al
 
 - **[Git Terminal (pode ser usado no Mac e Linux)](https://git-scm.com/downloads)** Recomendo bastante para que está usando o Windows. Essa biblioteca também permite configurar plugins, temas e diversas outras coisas dentro do terminal igual ao ZSH.
 
+- **[Fonte FiraCode](https://github.com/tonsky/FiraCode)** Essa sem dúvidas é uma das minhas fontes favorita. Além de ter a escrita muito bonita, é composta por uma personalidade única que contém um conjunto de ligaduras para combinações de vários caracteres de programação, deixando o código mais "bonito" de se ver. 
+
+<div align="center">
+  <img width ="400px" src="./public/images/firacode.png">
+</div>
+
+
 ## Ferramentas
 
 Além do Visual Studio Code e do terminal utilizo também algumas ferramentes que me ajudam muito durante os estudos.
@@ -101,7 +108,7 @@ Além do Visual Studio Code e do terminal utilizo também algumas ferramentes qu
 No momento estou utilizando o **[Ubuntu 20.04](https://ubuntu.com/download/desktop)** com o **[KDE Plasma 5](https://kde.org/plasma-desktop)** que remete bastante a aparência do novo sistema macOS Big Sur da Apple.
 
 <div align="center">
-  <img width="1000px" src="./public/images/desktop_dev.png">
+  <img width="1200px" src="./public/images/desktop_dev.png">
 </div>
 
 
