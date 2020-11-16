@@ -96,7 +96,7 @@ Apesar de ajudar muito o terminal integrado do VSCode, utiizo um terminal com al
 
 ## Ferramentas
 
-Além do Visual Studio Code e do terminal utilizo também algumas ferramentes que me ajudam muito durante os estudos. Criei um script com o foco na distro debian/ubuntu, que prepara o ambiente com todos os programas que utilizo, segue o link [Script](https://github.com/RaioneNascimento/rn-workstation).
+Além do Visual Studio Code e do terminal utilizo também algumas ferramentes que me ajudam muito durante os estudos. Tomei a liberdade e criei um **[Script](https://github.com/RaioneNascimento/rn-workstation)** compatível com as distros debian/ubuntu, com o foco de preparar o ambiente instalando os programas que mais utilizo, facilitando a instalação e economizando tempo depois da instalação do Sistema operacional.
 
  - **[DevDocs](https://devdocs.io/)** - Para baixar e consultar documentações das principais linguagens e bibliotecas existentes.
  - **[Insomnia](https://insomnia.rest/download/)** - Aplicativo para testar API's REST, muito útil. É possível configurar variáveis de ambiente e trabalhar em times 
