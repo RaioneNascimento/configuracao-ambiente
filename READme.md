@@ -96,12 +96,12 @@ Apesar de ajudar muito o terminal integrado do VSCode, utiizo um terminal com al
 
 ## Ferramentas
 
-Além do Visual Studio Code e do terminal utilizo também algumas ferramentes que me ajudam muito durante os estudos.
+Além do Visual Studio Code e do terminal utilizo também algumas ferramentes que me ajudam muito durante os estudos. Criei um script com o foco na distro debian/ubuntu, que prepara o ambiente com todos os programas que utilizo, segue o link [Script](https://github.com/RaioneNascimento/rn-workstation).
 
  - **[DevDocs](https://devdocs.io/)** - Para baixar e consultar documentações das principais linguagens e bibliotecas existentes.
  - **[Insomnia](https://insomnia.rest/download/)** - Aplicativo para testar API's REST, muito útil. É possível configurar variáveis de ambiente e trabalhar em times 
  - **[Figma](https://www.figma.com/downloads/)** - Editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web, com ferramentas offline adicionais para aplicações desktop para Linux, macOS e Windows. 
- - **[Notion (apenas Mac e Windows)](https://www.notion.so/desktop)** - Aplicativo e serviço completo para anotações, gerenciamento de projetos e de tarefas.
+ - **[Notion (apenas Mac e Windows)](https://www.notion.so/desktop)** - Aplicativo e serviço completo para anotações, gerenciamento de projetos e de tarefas.s
 
 ## Software
 
