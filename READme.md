@@ -40,7 +40,7 @@ Essa é a lista de plugins que tenho instalado até o momento:
 
 * ✌️ **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** - permite aos participantes da sessão visualizar ou editar o projeto no qual o grupo está trabalhando.
 
-* 👻 **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Plugin que utilizo para escrever e ler Markdown dentro do VSCode, bem utilizados para documentações README's do Github.
+* 👻 **[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Plugin que utilizo para escrever e ler Markdown dentro do VSCode, bem utilizados para documentações README's do Github.
 
 * 🕶️ **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - Utilizo para exibir os ícones de acordo com a linguagem utilizada na minha sidebar. O mais legal é que ele identifica a grande parte das Libs e Ferramentas.
 
@@ -49,6 +49,8 @@ Essa é a lista de plugins que tenho instalado até o momento:
 * ✈️ **[Rocketseat ReactJS](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactJS)** - Plugin com ReactJS Snippets da Rocketseat.
 
 * 👀 **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)** - Plugin utilizado para explorar e consultar bancos de dados SQLite de alguns projetos que faço em Backend.
+
+* 🧑🏽‍💻 **[Tabnine](https://www.tabnine.com/)** - Essa é uma extensão para auto-completar seu código. Porém ela faz uso de inteligência artificial pra você codar mais rápido já que ela identifica padrões no seu código e assim melhora a qualidade das sugestões.
 
 * 💅 **[vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)** - Destaque de sintaxe e IntelliSense para componentes estilizados.
 
