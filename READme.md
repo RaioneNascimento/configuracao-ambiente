@@ -59,25 +59,30 @@ Além dos plugins, utilizo algumas configurações para facilitar a legibilidade
 
 ```sh
 Define o tema do VSCode
-    "workbench.colorTheme":"Dracula",
-
-  // Configura tamanho e família da fonte
+{
+    "workbench.colorTheme": "Dracula",
+    
+    // Configura tamanho e família da fonte
     "editor.fontSize": 14,
     "editor.lineHeight": 20,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Jetbrains Mono",
     "editor.fontLigatures": true,
-
-  // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
-   "editor.rulers": [80, 120],
-  
-  // Aplica um sinal visual na esquerda da linha selecionada
-    "editor.renderLineHighlight":"gutter",
-
-  // Aumenta a fonte do terminal
-    "terminal.integrated.fontSize":12,
-
-  // Define o tema dos ícones na sidebar
+    
+    // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+    "editor.rulers": [
+        80,
+        120
+    ],
+    
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight": "gutter",
+    
+    // Aumenta a fonte do terminal
+    "terminal.integrated.fontSize": 12,
+    
+    // Define o tema dos ícones na sidebar
     "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": -1,
 }
 ```
 ## Terminal
